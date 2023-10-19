@@ -1,0 +1,11 @@
+C:\Users\Edoardo\Desktop\calculator_lacertosa\calculator_lacertosa\bin\Debug\calculator_lacertosa.exe.config
+C:\Users\Edoardo\Desktop\calculator_lacertosa\calculator_lacertosa\bin\Debug\calculator_lacertosa.exe
+C:\Users\Edoardo\Desktop\calculator_lacertosa\calculator_lacertosa\bin\Debug\calculator_lacertosa.pdb
+C:\Users\Edoardo\Desktop\calculator_lacertosa\calculator_lacertosa\obj\Debug\calculator_lacertosa.csproj.AssemblyReference.cache
+C:\Users\Edoardo\Desktop\calculator_lacertosa\calculator_lacertosa\obj\Debug\calculator_lacertosa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Edoardo\Desktop\calculator_lacertosa\calculator_lacertosa\obj\Debug\calculator_lacertosa.Form1.resources
+C:\Users\Edoardo\Desktop\calculator_lacertosa\calculator_lacertosa\obj\Debug\calculator_lacertosa.Properties.Resources.resources
+C:\Users\Edoardo\Desktop\calculator_lacertosa\calculator_lacertosa\obj\Debug\calculator_lacertosa.csproj.GenerateResource.cache
+C:\Users\Edoardo\Desktop\calculator_lacertosa\calculator_lacertosa\obj\Debug\calculator_lacertosa.csproj.CoreCompileInputs.cache
+C:\Users\Edoardo\Desktop\calculator_lacertosa\calculator_lacertosa\obj\Debug\calculator_lacertosa.exe
+C:\Users\Edoardo\Desktop\calculator_lacertosa\calculator_lacertosa\obj\Debug\calculator_lacertosa.pdb
